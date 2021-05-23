@@ -1,0 +1,10 @@
+.idea
+*.iml
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\Alexey_Popov1\IdeaProjects\Unit03Popov\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
